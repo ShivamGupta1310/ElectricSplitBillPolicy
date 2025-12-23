@@ -23,21 +23,21 @@ const PrivacyPolicy = () => {
         <h2>Camera & Gallery Permissions</h2>
         <p>
           The app requests <strong>Camera and Gallery permissions</strong> solely to
-          allow users to capture or select an image of a barcode and attach it to an
+          allow users to capture or select an image of a QRcode and attach it to an
           electricity bill PDF.
         </p>
         <ul>
           <li>Camera access is used only when the user chooses to capture an image</li>
           <li>Gallery access is used only when the user selects an existing image</li>
           <li>Images are used only for attaching to the PDF and are processed locally</li>
-          <li>No images or barcode data are stored, uploaded, or shared externally</li>
+          <li>No images or QRcode data are stored, uploaded, or shared externally</li>
         </ul>
       </section>
 
       <section>
         <h2>Data Usage</h2>
         <ul>
-          <li>All calculations and barcode processing occur locally on the device</li>
+          <li>All calculations and QRcode processing occur locally on the device</li>
           <li>No data is transmitted externally</li>
           <li>No third-party analytics or advertising SDKs are used</li>
         </ul>
